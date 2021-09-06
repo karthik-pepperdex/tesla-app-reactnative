@@ -10,8 +10,8 @@ Check their docs for further reference
 
 - Clone the repository locally or download the zip file and unzip it into your desired location.
 - open the folder in your code editor. Open up your terminal and type
-  `npm install` **if you use npm** or,
-  `yarn install` **if you use yarn**.
+- `npm install` **if you use npm** or,
+- `yarn install` **if you use yarn**.
 - This should install all the required modules.
 - type
   `npm start` **if you use npm** or,
